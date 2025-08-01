@@ -272,7 +272,7 @@ This repository demonstrates:
 
 **Student ID**: 2005110  
 **Course**: CSE 410 - Computer Graphics Sessional  
-**Institution**: [Your University Name]
+**Institution**: Bangladesh University of Engineering and Technology
 
 ## 📄 License
 
